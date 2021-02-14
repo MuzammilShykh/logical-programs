@@ -1,0 +1,50 @@
+body 
+{
+    background-image: url("./wp2936933.jpg");
+}
+
+
+div p
+{
+color:green;
+margin-left: 3%;
+}
+
+div 
+{
+    width: 200px;
+}
+fieldset 
+{
+    width: 350px;
+}
+.submit 
+{
+   background-color: rgb(178, 94, 238);
+   color: #fff;
+}
+legend
+{
+    font-size: 22px;
+    color: #48a4da;
+}
+.inputText
+{
+    width: 150%;
+    height: 30px;
+}
+label
+{
+    font-size: 18px;
+    color:#d1e6fa ;
+}
+
+.array
+{
+    width: 15%;
+    height: 30px;
+}
+h1 
+{
+    color:rgb(111, 56, 150) ;
+}
